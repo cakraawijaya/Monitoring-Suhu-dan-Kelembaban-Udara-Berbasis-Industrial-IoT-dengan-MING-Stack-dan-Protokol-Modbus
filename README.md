@@ -13,11 +13,15 @@ Coming Soon...
 | Part | Description |
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
-| Code Editor | Visual Studio Code |
-| VS Code Extensions | PlatformIO |
+| Code Editor | Visual Studio Code | 
+| Framework | PlatformIO |
+| VS Code Extensions |  |
 | Driver | CP210X USB Driver |
+| IoT Platform | • Mosquitto MQTT Broker<br>• InfluxDB<br>• Node-RED<br>• Grafana |
 | Communications Protocol | • Message Queuing Telemetry Transport (MQTT)<br>• Modbus RTU (Remote Terminal Unit) |
+| IoT Architecture | 4 Layer |
 | Programming Language | C/C++ |
+| Arduino Library | • WiFi (default)<br>• MQTT<br>• ArduinoJson<br>• ModbusMaster |
 | Sensor | XY-MD02: Temperature & Humidity Sensor (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• MAX485 Converter Module: TTL UART to RS485 (x1) |
 
