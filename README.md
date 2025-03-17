@@ -14,8 +14,7 @@ Coming Soon...
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
 | Code Editor | Visual Studio Code | 
-| Framework | PlatformIO |
-| VS Code Extensions |  |
+| Framework | PlatformIO IDE |
 | Driver | CP210X USB Driver |
 | IoT Platform | • Mosquitto MQTT Broker<br>• InfluxDB<br>• Node-RED<br>• Grafana |
 | Communications Protocol | • Message Queuing Telemetry Transport (MQTT)<br>• Modbus RTU (Remote Terminal Unit) |
