@@ -22,6 +22,6 @@ Coming Soon...
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• MQTT<br>• ArduinoJson<br>• ModbusMaster |
 | Sensor | XY-MD02: Temperature & Humidity Sensor (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• MAX485 Converter Module: TTL UART to RS485 (x1) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Socket female jack DC (x1)<br>• Adaptor DC 5V (x1)<br>• MAX485 TTL to RS-485 Converter (x1) |
 
 <br><br>
