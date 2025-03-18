@@ -17,7 +17,7 @@ Coming Soon...
 | Framework | PlatformIO IDE |
 | Driver | CP210X USB Driver |
 | IoT Platform | • Mosquitto MQTT Broker<br>• InfluxDB<br>• Node-RED<br>• Grafana |
-| Communications Protocol | • Message Queuing Telemetry Transport (MQTT)<br>• Modbus RTU (Remote Terminal Unit) |
+| Communications Protocol | • RS485<br>• Modbus RTU (Remote Terminal Unit)<br>• Message Queuing Telemetry Transport (MQTT) |
 | IoT Architecture | 4 Layer |
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• MQTT<br>• ArduinoJson<br>• ModbusMaster |
